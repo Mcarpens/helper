@@ -1,10 +1,10 @@
 {
     "name": "mcarpens/helper",
-    "description": "My first Composer project",
+    "description": "Helper objects",
     "type": "library",
     "license": "MIT",
     "prefer-stable": true,
-    "version": "1.0.1",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Marc Carpens",
