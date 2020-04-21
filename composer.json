@@ -4,7 +4,7 @@
     "type": "library",
     "license": "MIT",
     "prefer-stable": true,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Marc Carpens",
@@ -13,7 +13,7 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
     },
