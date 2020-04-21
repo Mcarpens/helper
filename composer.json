@@ -3,6 +3,7 @@
     "description": "My first Composer project",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Marc Carpens",
