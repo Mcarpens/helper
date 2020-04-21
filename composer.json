@@ -3,8 +3,6 @@
     "description": "Helper objects",
     "type": "library",
     "license": "MIT",
-    "prefer-stable": true,
-    "version": "1.0.0",
     "authors": [
         {
             "name": "Marc Carpens",
@@ -18,8 +16,13 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-0": {
-            "\\Mcarpens\\Helper\\": "src/"
+        "psr-4": {
+            "Helper\\": "src/Mcarpens"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Helper\\": "tests/Mcarpens"
         }
     }
 }
