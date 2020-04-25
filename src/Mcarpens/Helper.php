@@ -1,6 +1,6 @@
 <?php
 
-namespace Mcarpens\Helper;
+namespace Helper;
 
 use DateTime;
 
